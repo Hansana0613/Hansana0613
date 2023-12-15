@@ -1,9 +1,3 @@
-![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social)
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
-
-![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social)
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Hansana0613&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -15,6 +9,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
+
 
 
 
