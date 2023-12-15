@@ -3,11 +3,11 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Hansana Madhuranga</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h3 align="center">A junior full-stack Software Engineering Undergraduate from Sri Lanka</h3>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Let+me+explain+about+me;I+am+a;Full-Stack+Software+Engineering+Student;Full+Stack+Web+Developer;SQL+DataBase+Developer;Graphic%20Designer;And%20A%20Reseacher;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
