@@ -40,11 +40,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOPC with Java, React-Native, PHP, Laravel & WordPress**
+- 🌱 I’m currently learning **Android Mobile Application Development**
 
 - 🧑‍🎓 I’m an Undergraduate at <a href="https://www.javainstitute.edu.lk">**JIAT**</a>
 
-- 💬 Ask me about **Web Development | Bootstrap**
+- 💬 Ask me about **Web Development | OOP**
 
 - 📫 How to reach me **hansanamadhuranga01@gmail.com**
   
